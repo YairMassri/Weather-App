@@ -1,0 +1,22 @@
+body{
+    margin: 8vh 8vw 8vh 8vw;
+    text-align: center;
+    background-color: aqua;
+
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
+.title{
+    font-family: 'Chicle', cursive;
+}
+.icon{
+    max-width: 120px;
+}
+.btn button:hover{
+    cursor: pointer;
+}
+.icons Clouds{
+    background-image: (url="http://www.kinyu-z.net/data/wallpapers/229/1507173.jpg");
+}
